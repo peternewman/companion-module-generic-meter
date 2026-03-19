@@ -20,7 +20,7 @@
 		"entrypoint": "../dist/main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "DodgeAudio",
-	"products": ["dB-Meter"],
-	"keywords": []
+	"manufacturer": "Generic",
+	"products": ["dB Meter"],
+	"keywords": ["dB", "Meter", "Generic"]
 }
